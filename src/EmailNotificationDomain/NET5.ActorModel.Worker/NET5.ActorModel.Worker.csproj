@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>dotnet-NET5.ActorModel.Worker-7FE19EED-B5F1-47DB-B531-DF9A63955D9E</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Akka" Version="1.4.12" />
+    <PackageReference Include="Akka.DI.Core" Version="1.4.12" />
+    <PackageReference Include="Akka.DI.Extensions.DependencyInjection" Version="1.4.19" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="5.0.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="3.4.0" />
+    <PackageReference Include="Serilog.Sinks.File" Version="4.1.0" />
+  </ItemGroup>
+
+   <ItemGroup>
+    <ProjectReference Include="..\NET5.ActorModel.Actor\NET5.ActorModel.Actor.csproj" />
+    <ProjectReference Include="..\NET5.ActorModel.Infrastructure\NET5.ActorModel.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>

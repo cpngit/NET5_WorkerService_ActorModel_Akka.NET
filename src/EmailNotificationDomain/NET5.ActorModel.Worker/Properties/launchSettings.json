@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "NET5.ActorModel.Worker": {
+      "commandName": "Project",
+      "dotnetRunMessages": "true",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

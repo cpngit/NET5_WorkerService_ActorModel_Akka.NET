@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "TVkFEtEPYfTA0+nUKS+t8wN27nN1zVp0uUXl8TssLL/aRD+BkQAhr6Sjtrmig69z4Oc+RBNsfpiLFyudducbWw==",
+  "success": true,
+  "projectFilePath": "C:\\cpngit\\.NET5_ActorModel_AKKA.NET\\src\\EmailNotificationDomain\\NET5.ActorModel.Actor\\NET5.ActorModel.Actor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nuc1ovr\\.nuget\\packages\\akka\\1.4.12\\akka.1.4.12.nupkg.sha512",
+    "C:\\Users\\nuc1ovr\\.nuget\\packages\\akka.di.core\\1.4.12\\akka.di.core.1.4.12.nupkg.sha512",
+    "C:\\Users\\nuc1ovr\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.6\\microsoft.extensions.dependencymodel.3.1.6.nupkg.sha512",
+    "C:\\Users\\nuc1ovr\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\nuc1ovr\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\nuc1ovr\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\nuc1ovr\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\nuc1ovr\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\nuc1ovr\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\nuc1ovr\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\nuc1ovr\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\nuc1ovr\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\nuc1ovr\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\nuc1ovr\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\nuc1ovr\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

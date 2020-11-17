@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\cpngit\\.NET5_ActorModel_AKKA.NET\\src\\EmailNotificationDomain\\NET5.ActorModel.Core\\NET5.ActorModel.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\cpngit\\.NET5_ActorModel_AKKA.NET\\src\\EmailNotificationDomain\\NET5.ActorModel.Core\\NET5.ActorModel.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\cpngit\\.NET5_ActorModel_AKKA.NET\\src\\EmailNotificationDomain\\NET5.ActorModel.Core\\NET5.ActorModel.Core.csproj",
+        "projectName": "NET5.ActorModel.Core",
+        "projectPath": "C:\\cpngit\\.NET5_ActorModel_AKKA.NET\\src\\EmailNotificationDomain\\NET5.ActorModel.Core\\NET5.ActorModel.Core.csproj",
+        "packagesPath": "C:\\Users\\nuc1ovr\\.nuget\\packages\\",
+        "outputPath": "C:\\cpngit\\.NET5_ActorModel_AKKA.NET\\src\\EmailNotificationDomain\\NET5.ActorModel.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nuc1ovr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\LocalPackageRepository\\HelloWorld\\Packages": {},
+          "C:\\LocalPackageRepository\\HelloWorld\\Packages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

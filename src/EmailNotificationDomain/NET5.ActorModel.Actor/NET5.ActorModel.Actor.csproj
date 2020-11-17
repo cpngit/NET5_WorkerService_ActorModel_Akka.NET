@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Akka" Version="1.4.12" />
+    <PackageReference Include="Akka.DI.Core" Version="1.4.12" />
+  </ItemGroup>
+
+   <ItemGroup>
+    <ProjectReference Include="..\NET5.ActorModel.Core\NET5.ActorModel.Core.csproj" />
+  </ItemGroup>
+
+</Project>
