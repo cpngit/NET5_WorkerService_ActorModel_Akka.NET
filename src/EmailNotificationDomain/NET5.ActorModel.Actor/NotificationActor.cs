@@ -42,8 +42,8 @@ namespace NET5.ActorModel.Actor
                 );
         }
 
-        protected override void PreStart() => _logger.LogInformation($"Inside of NotificationActor - Actor started.");//Console.WriteLine("Actor started");
+        protected override void PreStart() => _logger.LogInformation($"Inside of NotificationActor - Actor started.");
 
-        protected override void PostStop() =>  _logger.LogInformation($"Inside of NotificationActor - Actor stopped.");//Console.WriteLine("Actor stopped");
+        protected override void PostStop() =>  _logger.LogInformation($"Inside of NotificationActor - Actor stopped.");
     }
 }
